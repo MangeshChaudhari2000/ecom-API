@@ -1,0 +1,11 @@
+{"level":"info","message":"/-{\"email\":\"Seller.Gmail.com\",\"password\":\"Password\"}","service":"request-logging"}
+{"level":"info","message":"/-{\"email\":\"Seller.Gmail.com\",\"password\":\"Password\"}","service":"request-logging"}
+{"level":"info","message":"/rate?userId=2&productID=2&rating=5-{\"email\":\"Seller.Gmail.com\",\"password\":\"Password\"}","service":"request-logging"}
+{"level":"info","message":"/rate?userId=8&productID=1&rating=5-{\"email\":\"Seller.Gmail.com\",\"password\":\"Password\"}","service":"request-logging"}
+{"level":"info","message":"/rate?userId=8&productID=1&rating=5-{\"email\":\"Seller.Gmail.com\",\"password\":\"Password\"}","service":"request-logging"}
+{"level":"info","message":"/rate?userId=8&productID=1&rating=5-{\"email\":\"Seller.Gmail.com\",\"password\":\"Password\"}","service":"request-logging"}
+{"level":"info","message":"/rate?userId=8&productID=1&rating=5-{\"email\":\"Seller.Gmail.com\",\"password\":\"Password\"}","service":"request-logging"}
+{"level":"info","message":"/rate?userId=8&productID=1&rating=5-{\"email\":\"Seller.Gmail.com\",\"password\":\"Password\"}","service":"request-logging"}
+{"level":"info","message":"/rate?userId=8&productID=1&rating=5-{\"email\":\"Seller.Gmail.com\",\"password\":\"Password\"}","service":"request-logging"}
+{"level":"info","message":"/rate?userId=8&productID=1&rating=5-{\"email\":\"Seller.Gmail.com\",\"password\":\"Password\"}","service":"request-logging"}
+{"level":"info","message":"/rate?userId=8&productID=1&rating=5-{\"email\":\"Seller.Gmail.com\",\"password\":\"Password\"}","service":"request-logging"}
